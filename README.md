@@ -1,6 +1,6 @@
 # Pkpk
 
-TODO: Write a gem description
+The logging pattern based on magic strings for easy detection.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+pkpk []
+```
 
 ## Contributing
 
